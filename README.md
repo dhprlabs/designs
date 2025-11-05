@@ -38,13 +38,6 @@ This repository includes robotics-centric designs such as:
 - Sensor mounts and integration systems
 - Custom mechanical components
 
-These are especially useful for:
- 
-- Robotics competitions (e.g., FRC, FTC, RoboCup)
-- DIY automation projects
-- Simulation or prototyping stages of embedded systems
-- Educational purposes
-
 ## Usage & Licensing
 
 All models in this repository are free to use for:
