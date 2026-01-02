@@ -1,6 +1,6 @@
-# 3D Models 
+# Designs
 
-Welcome to my 3D Models Repository – a curated collection of CAD and 3D 
+Welcome to my Designs Repository – a curated collection of CAD and 3D 
 models created using various design tools including **SOLIDWORKS** and 
 **Blender**. This repository features designs ranging from 
 beginner-friendly models to complex mechanical assemblies, with a 
@@ -19,8 +19,8 @@ projects
 
 Models are organized by software/tool used:
 
-- **SOLIDWORKS** - Parametric CAD models and assemblies
-- **Blender** - 3D models for visualization, rendering, and animation
+- **Solidworks** 
+- **Blender** 
 
 ## Getting Started
 
